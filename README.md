@@ -1,12 +1,15 @@
 # Nuxt Storyblok Queries
 
-[![NPM](https://img.shields.io/npm/v/@wearewondrous/nuxt-storyblok-queries.svg)](https://www.npmjs.com/package/@wearewondrous/nuxt-storyblok-queries)
-[![CircleCI](https://circleci.com/gh/wearewondrous/nuxt-storyblok-queries.svg?style=shield&circle-token=53485e7e4fa60a611464761450c6230f5bafe9ff)](https://circleci.com/gh/wearewondrous/nuxt-storyblok-queries)
+[![NPM](https://img.shields.io/npm/v/@wearewondrous/nuxt-storyblok-queries.svg)](https://www.npmjs.com/package/regenrek/nuxt-storyblok-queries)
+[![CircleCI](https://circleci.com/gh/wearewondrous/nuxt-storyblok-queries.svg?style=shield&circle-token=53485e7e4fa60a611464761450c6230f5bafe9ff)](https://circleci.com/gh/regenrek/nuxt-storyblok-queries)
 [![Standard JS][standard-js-src]][standard-js-href]
 
 > Nuxt.js module to simplify queries to the Storyblok API
 
 [📖 **Release Notes**](./CHANGELOG.md)
+
+
+⚠️ This module is a fork of [@wearewondrous/nuxt-storyblok-queries](https://github.com/wearewondrous/nuxt-storyblok-queries) but with some more features like storyblok management api. 
 
 ## Setup
 

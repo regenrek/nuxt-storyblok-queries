@@ -1,6 +1,6 @@
 {
-  "name": "@wearewondrous/nuxt-storyblok-queries",
-  "version": "1.2.8",
+  "name": "regenrek/nuxt-storyblok-queries",
+  "version": "1.2.9",
   "description": "Nuxt.js module to simplify queries to the Storyblok API",
   "main": "lib/module.js",
   "license": "MIT",
@@ -9,6 +9,10 @@
     {
       "name": "Serafin Lichtenhahn <serafin@wearewondrous.com>",
       "url": "https://github.com/seralichtenhahn"
+    },
+    {
+      "name": "Kevin Regenrek <hello@regenrek.at>",
+      "url": "https://github.com/regenrek"
     }
   ],
   "scripts": {

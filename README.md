@@ -1,7 +1,7 @@
 # Nuxt Storyblok Queries
 
-[![NPM](https://img.shields.io/npm/v/@wearewondrous/nuxt-storyblok-queries.svg)](https://www.npmjs.com/package/regenrek/nuxt-storyblok-queries)
-[![CircleCI](https://circleci.com/gh/wearewondrous/nuxt-storyblok-queries.svg?style=shield&circle-token=53485e7e4fa60a611464761450c6230f5bafe9ff)](https://circleci.com/gh/regenrek/nuxt-storyblok-queries)
+[![NPM](https://img.shields.io/npm/v/@regenrek/nuxt-storyblok-queries.svg)](https://www.npmjs.com/package/regenrek/nuxt-storyblok-queries)
+[![CircleCI](https://circleci.com/gh/regenrek/nuxt-storyblok-queries.svg?style=shield&circle-token=53485e7e4fa60a611464761450c6230f5bafe9ff)](https://circleci.com/gh/regenrek/nuxt-storyblok-queries)
 [![Standard JS][standard-js-src]][standard-js-href]
 
 > Nuxt.js module to simplify queries to the Storyblok API
@@ -19,14 +19,14 @@ yarn add -D @regenrek/nuxt-storyblok-queries
 
 ## Setup
 
-1. Add the `@wearewondrous/nuxt-storyblok-queries` dependency with `yarn` or `npm` to your project
-2. Add `@wearewondrous/nuxt-storyblok-queries` to the `modules` section of `nuxt.config.js`
+1. Add the `@regenrek/nuxt-storyblok-queries` dependency with `yarn` or `npm` to your project
+2. Add `@regenrek/nuxt-storyblok-queries` to the `modules` section of `nuxt.config.js`
 3. Configure it:
 
 ```js
 {
   modules: [
-    ['@wearewondrous/nuxt-storyblok-queries', {
+    ['@regenrek/nuxt-storyblok-queries', {
       // Module options here
     }]
   ]
@@ -38,7 +38,7 @@ yarn add -D @regenrek/nuxt-storyblok-queries
 ```js
 {
   modules: [
-    '@wearewondrous/nuxt-storyblok-queries'
+    '@regenrek/nuxt-storyblok-queries'
   ],
   storyblokQueries: [
     // Module options here

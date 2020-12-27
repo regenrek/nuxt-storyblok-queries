@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.10](https://github.com/regenrek/nuxt-storyblok-queries/compare/v1.2.8...v1.2.10) (2020-12-27)
+
 ### [1.2.9](https://github.com/wearewondrous/nuxt-storyblok-queries/compare/v1.2.8...v1.2.9) (2020-12-27)
 
 * Add storyblok management api functionality - `$sbManagement`

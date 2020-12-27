@@ -1,13 +1,13 @@
 {
   "name": "@nujek/nuxt-storyblok-queries",
-  "version": "1.2.12",
+  "version": "1.2.9",
   "description": "Nuxt.js module to simplify queries to the Storyblok API",
   "scripts": {
     "test:unit": "jest",
     "lint": "eslint --ext .js,.vue lib",
     "dev": "nuxt example",
     "lint:fix": "eslint --fix --ext .js,.vue lib",
-    "release": "standard-version && git push --follow-tags && yarn publish",
+    "release": "standard-version && git push --follow-tags && yarn publish --access public",
     "test": "yarn lint && yarn test:unit"
   },
   "main": "lib/module.js",

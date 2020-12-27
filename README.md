@@ -8,8 +8,14 @@
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
+# ⚠️ Important
+ This module is a fork of [@wearewondrous/nuxt-storyblok-queries](https://github.com/wearewondrous/nuxt-storyblok-queries) but with some more features like storyblok management api. 
 
-⚠️ This module is a fork of [@wearewondrous/nuxt-storyblok-queries](https://github.com/wearewondrous/nuxt-storyblok-queries) but with some more features like storyblok management api. 
+# Install
+
+```
+yarn add -D @regenrek/nuxt-storyblok-queries
+```
 
 ## Setup
 

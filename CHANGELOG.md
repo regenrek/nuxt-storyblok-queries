@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.11](https://github.com/regenrek/nuxt-storyblok-queries/compare/v1.2.9...v1.2.11) (2020-12-27)
+
+### [1.2.10](https://github.com/regenrek/nuxt-storyblok-queries/compare/v1.2.9...v1.2.10) (2020-12-27)
+
+### [1.2.11](https://github.com/regenrek/nuxt-storyblok-queries/compare/v1.2.9...v1.2.11) (2020-12-27)
+
+### [1.2.10](https://github.com/regenrek/nuxt-storyblok-queries/compare/v1.2.9...v1.2.10) (2020-12-27)
+
+### [1.2.9](https://github.com/regenrek/nuxt-storyblok-queries/compare/v1.2.12...v1.2.9) (2020-12-27)
+
+### [1.2.12](https://github.com/regenrek/nuxt-storyblok-queries/compare/v1.2.11...v1.2.12) (2020-12-27)
+
+### [1.2.11](https://github.com/regenrek/nuxt-storyblok-queries/compare/v1.2.10...v1.2.11) (2020-12-27)
+
+### [1.2.10](https://github.com/regenrek/nuxt-storyblok-queries/compare/v1.2.8...v1.2.10) (2020-12-27)
+
+### [1.2.9](https://github.com/wearewondrous/nuxt-storyblok-queries/compare/v1.2.8...v1.2.9) (2020-12-27)
+
+* Add storyblok management api functionality - `$sbManagement`
+
 ### [1.2.8](https://github.com/wearewondrous/nuxt-storyblok-queries/compare/v1.2.5...v1.2.8) (2020-11-18)
 
 

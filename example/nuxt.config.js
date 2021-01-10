@@ -18,6 +18,7 @@ module.exports = {
   modules: [resolve(__dirname, '../')],
   storyblokQueries: {
     accessToken,
-    defaultLanguage: 'en'
+    defaultLanguage: 'en',
+    formatResponse: false
   }
 }
